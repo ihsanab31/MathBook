@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MathBook</string>
+    <string name="mathematics">Mathematics</string>
+    <string name="book">Book</string>
+    <string name="deskripsi">Sistem Persamaan \n Linear Dua Variabel \n (SPLDV)</string>
+    <string name="mulai">Mulai</string>
+</resources>

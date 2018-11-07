@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="biru">#0000FF</color>
+    <color name="putih">#FFFFFF</color>
+    <color name="putih_opacity">#b9ffffff</color>
+    <color name="color_book">#3DB39E</color>
+    <color name="biru_laut">#0096E6</color>
+</resources>

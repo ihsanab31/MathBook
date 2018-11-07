@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:gravity="center"
+        android:background="@color/putih"
+        tools:context=".view.activities.slpash.SplashScreenActivity">
+
+    <ImageView
+            android:layout_width="@dimen/dimens150dp"
+            android:layout_height="@dimen/dimens150dp"
+            android:src="@drawable/splash"
+            android:id="@+id/iv_slpash"/>
+    <TextView android:layout_width="wrap_content"
+              android:layout_height="wrap_content"
+              android:text="@string/mathematics"
+              android:layout_marginTop="@dimen/dimens15dp"
+              android:textSize="@dimen/text20sp"
+              android:textStyle="bold|italic"
+              android:fontFamily="monospace"
+              android:textColor="@color/biru"
+    />
+    <TextView android:layout_width="wrap_content"
+              android:layout_height="wrap_content"
+              android:text="@string/book"
+              android:textSize="@dimen/text20sp"
+              android:textStyle="bold|italic"
+              android:fontFamily="monospace"
+              android:textColor="@color/biru"/>
+</LinearLayout>
